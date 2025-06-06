@@ -43,10 +43,8 @@
   
   <!-- Alienígena e escudo do Palmeiras lado a lado -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Alienígena" width="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Palmeiras_logo.svg" alt="Escudo do Palmeiras" width="150">
+    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Alienígena" width="150">
+    <img src="https://logoeps.com/wp-content/uploads/2013/03/palmeiras-vector-logo.png" alt="Escudo do Palmeiras" width="150">
   </div>
 </div>
-
-
 
