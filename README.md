@@ -41,9 +41,13 @@
   <!-- Espaço -->
   <br><br>
 
-  <!-- Animação de alienígena em nave espacial -->
-  <img src="https://cdn.pixabay.com/animation/2023/11/16/11/22/11-22-23-661_512.gif" alt="Alienígena em nave espacial" width="200">
+  <!-- Alienígena e escudo do Palmeiras lado a lado -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Alienígena" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Palmeiras_logo.svg" alt="Escudo do Palmeiras" width="150">
+  </div>
 </div>
+
 
 
 
