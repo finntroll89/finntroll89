@@ -37,17 +37,16 @@
   <a href="https://wa.me/5592988356730?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-
-  <!-- Espaço -->
-  <br><br>
-
+  
+  <!-- Título Redes Sociais -->
+  <h3>Redes Sociais</h3>
+  
   <!-- Alienígena e escudo do Palmeiras lado a lado -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Alienígena" width="150">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Palmeiras_logo.svg" alt="Escudo do Palmeiras" width="150">
   </div>
 </div>
-
 
 
 
