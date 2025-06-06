@@ -27,6 +27,7 @@
 ### 📬 Contato:
 
 <div align="center">
+  <!-- Botões de contato -->
   <a href="mailto:wallezpaz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -40,8 +41,9 @@
   <!-- Espaço -->
   <br><br>
 
-  <!-- Animação de nave (GIF animado hospedado) -->
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Nave voadora" width="200">
+  <!-- Animação de alienígena em nave espacial -->
+  <img src="https://cdn.pixabay.com/animation/2023/11/16/11/22/11-22-23-661_512.gif" alt="Alienígena em nave espacial" width="200">
 </div>
+
 
 
